@@ -16,7 +16,6 @@
         "eg2.vscode-npm-script", // NPM support for VS code
         "christian-kohler.npm-intellisense", // Autocompletes npm modules in import statements
         "cssho.vscode-svgviewer", // SVG viewer
-        "eamodio.gitlens", // IDE Git information
         "ms-azuretools.vscode-docker", // Docker integration and linting
         "shardulm94.trailing-spaces", // Show trailing spaces
         "davidanson.vscode-markdownlint",
